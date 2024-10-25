@@ -91,6 +91,17 @@ $ JuliaPlot --c=-0.8+0.156j \
 - `--max_iter`: Le nombre maximum d'itérations. / The maximum number of iterations.
 - `-o`: Le nom du fichier de sortie pour l'image générée. / The name of the output file for the generated image.
 
+## Documentation
+
+La documentation du projet est disponible en format HTML dans le dossier [doc](doc). Elle a été générée à l'aide de Sphinx et contient des informations détaillées sur l'utilisation et l'architecture du projet.
+
+The project documentation is available in HTML format in the [doc](doc) folder. It was generated using Sphinx and contains detailed information on the usage and architecture of the project.
+
+## Tests
+
+Une suite de tests est disponible dans le dossier [tests](tests/). Vous pouvez utiliser pytest pour exécuter les tests et vérifier le bon fonctionnement des fonctions du projet. Assurez-vous d'avoir pytest installé avant de lancer les tests.
+
+A test suite is available in the [tests](tests/) folder. You can use pytest to run the tests and verify the proper functioning of the project's functions. Make sure you have pytest installed before running the tests.
 
 ## Licence / License
 
